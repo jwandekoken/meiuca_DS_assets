@@ -1,0 +1,2 @@
+const ArrowLeft = '<svg viewBox="0 0 24 24" class="arrow-left" width="24.000em" height="24.000em" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M6.81077 12.7501L12.5304 18.4697L11.4698 19.5304L3.93945 12.0001L11.4698 4.46973L12.5304 5.53039L6.81077 11.2501H19.0001V12.7501H6.81077Z" fill="currentColor"/></svg>';
+export default ArrowLeft

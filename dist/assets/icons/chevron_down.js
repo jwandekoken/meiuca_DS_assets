@@ -1,0 +1,2 @@
+const ChevronDown = '<svg viewBox="0 0 24 24" class="chevron-down" width="24.000em" height="24.000em" aria-hidden="true" focusable="false"><path d="M3.16406 8.08594L2.08594 9.16406L11.4609 18.5391L12 19.0547L12.5391 18.5391L21.9141 9.16406L20.8359 8.08594L12 16.9219L3.16406 8.08594Z" fill="currentColor"/></svg>';
+export default ChevronDown

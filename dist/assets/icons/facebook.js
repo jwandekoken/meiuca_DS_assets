@@ -1,0 +1,2 @@
+const Facebook = '<svg viewBox="0 0 24 24" class="facebook" width="24.000em" height="24.000em" aria-hidden="true" focusable="false"><path d="M14.4404 1.5C11.4839 1.5 9.75 3.06163 9.75 6.61963V9.75H6V13.5H9.75V22.5H13.5V13.5H16.5L17.25 9.75H13.5V7.25391C13.5 5.91366 13.9371 5.25 15.1948 5.25H17.25V1.65381C16.8945 1.60581 15.8587 1.5 14.4404 1.5Z" fill="currentColor"/></svg>';
+export default Facebook

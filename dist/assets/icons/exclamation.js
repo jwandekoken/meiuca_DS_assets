@@ -1,0 +1,2 @@
+const Exclamation = '<svg viewBox="0 0 24 24" class="exclamation" width="24.000em" height="24.000em" aria-hidden="true" focusable="false"><path d="M12 2.41406L11.3438 3.53906L2.34375 19.125L1.71094 20.25H22.2891L21.6562 19.125L12.6562 3.53906L12 2.41406ZM12 5.41406L19.6875 18.75H4.3125L12 5.41406ZM11.25 10.5V15H12.75V10.5H11.25ZM11.25 15.75V17.25H12.75V15.75H11.25Z" fill="currentColor"/></svg>';
+export default Exclamation

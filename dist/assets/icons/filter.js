@@ -1,0 +1,2 @@
+const Filter = '<svg viewBox="0 0 24 24" class="filter" width="24.000em" height="24.000em" aria-hidden="true" focusable="false"><path d="M3.75 3V4.75781L3.91406 4.96875L9.75 12.2578V21L10.9453 20.1094L13.9453 17.8594L14.25 17.625V12.2578L20.0859 4.96875L20.25 4.75781V3H3.75ZM5.46094 4.5H18.5391L13.1484 11.25H10.8516L5.46094 4.5ZM11.25 12.75H12.75V16.875L11.25 18V12.75Z" fill="currentColor"/></svg>';
+export default Filter

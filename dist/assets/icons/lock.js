@@ -1,0 +1,2 @@
+const Lock = '<svg viewBox="0 0 24 24" class="lock" width="24.000em" height="24.000em" aria-hidden="true" focusable="false"><path d="M12 2.25C9.11719 2.25 6.75 4.61719 6.75 7.5V9.75H4.5V21.75H19.5V9.75H17.25V7.5C17.25 4.61719 14.8828 2.25 12 2.25ZM12 3.75C14.0654 3.75 15.75 5.43457 15.75 7.5V9.75H8.25V7.5C8.25 5.43457 9.93457 3.75 12 3.75ZM6 11.25H18V20.25H6V11.25Z" fill="currentColor"/></svg>';
+export default Lock

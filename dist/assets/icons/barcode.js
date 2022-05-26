@@ -1,0 +1,2 @@
+const Barcode = '<svg viewBox="0 0 24 24" class="barcode" width="24.000em" height="24.000em" aria-hidden="true" focusable="false"><path d="M2 6H4V18H2V6ZM5 6H6V18H5V6ZM7 6H10V18H7V6ZM11 6H12V18H11V6ZM14 6H16V18H14V6ZM17 6H20V18H17V6ZM21 6H22V18H21V6Z" fill="currentColor"/></svg>';
+export default Barcode

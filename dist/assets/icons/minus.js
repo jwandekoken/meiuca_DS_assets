@@ -1,0 +1,2 @@
+const Minus = '<svg viewBox="0 0 24 24" class="minus" width="24.000em" height="24.000em" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M19 12.75H5V11.25H19V12.75Z" fill="currentColor"/></svg>';
+export default Minus

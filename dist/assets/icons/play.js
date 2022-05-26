@@ -1,0 +1,2 @@
+const Play = '<svg viewBox="0 0 24 24" class="play" width="24.000em" height="24.000em" aria-hidden="true" focusable="false"><path d="M6.75 3.86719V20.1328L7.89844 19.3828L19.3828 12L7.89844 4.61719L6.75 3.86719ZM8.25 6.60938L16.6172 12L8.25 17.3906V6.60938Z" fill="currentColor"/></svg>';
+export default Play

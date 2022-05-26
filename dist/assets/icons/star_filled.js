@@ -1,0 +1,2 @@
+const StarFilled = '<svg viewBox="0 0 24 24" class="star-filled" width="24.000em" height="24.000em" aria-hidden="true" focusable="false"><path d="M22.752 9.41016L15.123 8.60449L12 1.59961L8.87695 8.60449L1.24805 9.41016L6.94629 14.5459L5.35547 22.0488L12 18.2168L18.6445 22.0488L17.0537 14.5459L22.752 9.41016Z" fill="currentColor"/></svg>';
+export default StarFilled

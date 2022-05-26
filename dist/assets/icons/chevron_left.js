@@ -1,0 +1,2 @@
+const ChevronLeft = '<svg viewBox="0 0 24 24" class="chevron-left" width="24.000em" height="24.000em" aria-hidden="true" focusable="false"><path d="M14.2734 3.21094L6.02344 11.4609L5.50781 12L6.02344 12.5391L14.2734 20.7891L15.3516 19.7109L7.64062 12L15.3516 4.28906L14.2734 3.21094Z" fill="currentColor"/></svg>';
+export default ChevronLeft

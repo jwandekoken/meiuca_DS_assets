@@ -1,0 +1,2 @@
+const ArrowDown = '<svg viewBox="0 0 24 24" class="arrow-down" width="24.000em" height="24.000em" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M11.2501 17.1893V5H12.7501V17.1893L18.4697 11.4697L19.5304 12.5303L12.0001 20.0607L4.46973 12.5303L5.53039 11.4697L11.2501 17.1893Z" fill="currentColor"/></svg>';
+export default ArrowDown

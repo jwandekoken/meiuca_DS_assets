@@ -1,0 +1,2 @@
+const Pause = '<svg viewBox="0 0 24 24" class="pause" width="24.000em" height="24.000em" aria-hidden="true" focusable="false"><path d="M7.5 4.5V19.5H9V4.5H7.5ZM15 4.5V19.5H16.5V4.5H15Z" fill="currentColor"/></svg>';
+export default Pause

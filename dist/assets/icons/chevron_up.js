@@ -1,0 +1,2 @@
+const ChevronUp = '<svg viewBox="0 0 24 24" class="chevron-up" width="24.000em" height="24.000em" aria-hidden="true" focusable="false"><path d="M12 4.94531L11.4609 5.46094L2.08594 14.8359L3.16406 15.9141L12 7.07812L20.8359 15.9141L21.9141 14.8359L12.5391 5.46094L12 4.94531Z" fill="currentColor"/></svg>';
+export default ChevronUp

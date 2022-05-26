@@ -1,0 +1,2 @@
+const Bullet = '<svg viewBox="0 0 24 24" class="bullet" width="24.000em" height="24.000em" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="6" fill="currentColor"/></svg>';
+export default Bullet

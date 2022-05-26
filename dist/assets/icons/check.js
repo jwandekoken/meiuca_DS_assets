@@ -1,0 +1,2 @@
+const Check = '<svg viewBox="0 0 24 24" class="check" width="24.000em" height="24.000em" aria-hidden="true" focusable="false"><path d="M21.2109 4.71094L8.25 17.6719L2.78906 12.2109L1.71094 13.2891L7.71094 19.2891L8.25 19.8047L8.78906 19.2891L22.2891 5.78906L21.2109 4.71094Z" fill="currentColor"/></svg>';
+export default Check

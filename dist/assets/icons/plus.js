@@ -1,0 +1,2 @@
+const Plus = '<svg viewBox="0 0 24 24" class="plus" width="24.000em" height="24.000em" aria-hidden="true" focusable="false"><path d="M11.25 3.75V11.25H3.75V12.75H11.25V20.25H12.75V12.75H20.25V11.25H12.75V3.75H11.25Z" fill="currentColor"/></svg>';
+export default Plus

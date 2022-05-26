@@ -1,0 +1,2 @@
+const Bookmark = '<svg viewBox="0 0 24 24" class="bookmark" width="24.000em" height="24.000em" aria-hidden="true" focusable="false"><path d="M5.25 3.75V21L6.44531 20.1094L12 15.9375L17.5547 20.1094L18.75 21V3.75H5.25ZM6.75 5.25H17.25V18L12.4453 14.3906L12 14.0625L11.5547 14.3906L6.75 18V5.25Z" fill="currentColor"/></svg>';
+export default Bookmark
