@@ -1,0 +1,22 @@
+{
+  "name": "@jc/ds_assets",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jwandekoken/meiuca_DS_assets"
+  },
+  "files": [
+    "dist",
+    "src/assets"
+  ],
+  "scripts": {
+    "build": "rimraf dist && node src/build.js"
+  },
+  "devDependencies": {
+    "fs-extra": "^4.0.1",
+    "rimraf": "^3.0.2"
+  }
+}
